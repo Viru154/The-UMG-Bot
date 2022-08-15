@@ -74,18 +74,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/eC9TfKICpcY)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
+
   
 ### `—◉ 💥 ACTIVAR EN ACIDICNODES 💥`
-<a href="https://billing.acidicnodes.ml/register?ref=ADII104p"><img src="https://billing.acidicnodes.ml/storage/icon.png" width="100" height="100" alt="acidicnodes"/></a>
-- TUTORIAL: [https://youtu.be/nbjvreJ0tUk](https://youtu.be/nbjvreJ0tUk)
-- PAGINA: [https://billing.acidicnodes.ml/register?ref=ADII104p](https://billing.acidicnodes.ml/register?ref=ADII104p)
-- SOPORTE: [https://whatsapp.acidicnodes.com](https://whatsapp.acidicnodes.com)
+
 
 ### `—◉ 📝 NOTAS 📝`
 ```bash
@@ -98,12 +90,11 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `COLABORADORES DEL BOT` 
-<a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="200" height="200" alt="unptoadrih15"/></a>
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="200" height="200" alt="ALBERTO9883"/></a>
-<a href="https://github.com/ferhacks"><img src="https://github.com/ferhacks.png" width="200" height="200" alt="ferhacks"/></a>
-<a href="https://github.com/g4tito"><img src="https://github.com/g4tito.png" width="200" height="200" alt="g4tito"/></a>
+<a href="https://github.com/pscherios"><img src="https://github.com/unptoadrih15.png" width="200" height="200" alt="Aancords"/></a>
+<a href="https://github.com/Ancordss"><img src="https://github.com/ALBERTO9883.png" width="200" height="200" alt="PsCheerios"/></a>
 
-## `EDITOR Y PORPIETARIO DEL BOT` 
+
+## `Creador del Bot` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
 
 `TheMystic-Bot-MD _ By Bruno Sobrino`
