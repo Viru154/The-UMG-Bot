@@ -1,7 +1,7 @@
 {
-    "name": "TheMystic-Bot-MD",
-    "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "name": "Bot-UMG-21k",
+    "version": "1.1.0",
+    "description": "Bot de la UMG-21k",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,20 +14,20 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+    "homepage": "https://github.com/Viru154/The-UMG-Bot",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "Viru154"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "git+https://github.com/Viru154/The-UMG-Bot.git"
     },
     "bugs": {
         "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:BrunoSobrino/baileys",
+        "@adiwajshing/baileys": "@github:Viru154/baileys-api-",,
         "@bochilteam/scraper": "^3.0.0",
         "acrcloud": "^1.4.0",
         "awesome-phonenumber": "^2.68.0",
